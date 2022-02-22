@@ -2,7 +2,7 @@
 
 - :building_construction: I am currently working on a discord bot (Python) and Mods for video games(C#).
 - :cowboy_hat_face: Programming Languages: Python, C++, SQL, Javascript
-- :clipboard: Currently Learning: Rust
+- :clipboard: Currently Learning: Rust, R
 - :satellite: Interested in Cyber Security, Defense, and Space Systems
 - :student: California State University - Fullerton: B.S. in Computer Science 2023
 - :white_check_mark: Looking for an internship in IT/ Cyber Security and/or Software Development.
