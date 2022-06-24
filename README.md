@@ -19,7 +19,7 @@ Experienced in teaching coding to students K-12 in an afterschool program. I am 
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jllewis11&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jllewis11&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
 <br>
 
