@@ -2,7 +2,8 @@
 
 - 🏗️ I am currently working on a discord bot (Python) and Mods for video games(C#).
 - 🤠 Programming Languages: Python, C++, SQL, Javascript
-- 📋 Currently Learning: Rust, R
+- 📋 Currently Learning: Rust, R, GraphQL
+- 🔧 Frameworks: Node, React
 - 🔨 Tools: Git, Jira, Bash, Docker, Cypress Testing
 - 📡 Interested in Cyber Security, Defense, and Space Systems
 - 🧑‍🎓 California State University - Fullerton: B.S. in Computer Science 2023
