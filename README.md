@@ -7,7 +7,7 @@
 - 🔨 Tools: Git, Jira, Bash, Docker, Cypress Testing
 - 📡 Interested in Cyber Security, Defense, and Space Systems
 - 🧑‍🎓 California State University - Fullerton: B.S. in Computer Science 2023
-- ✅ Looking for an internship in IT/ Cyber Security and/or Software Development.
+- ✅ Looking for an internship in DevOps, SRE, and/or Software Development.
 
 
 ###### Fun Facts:
