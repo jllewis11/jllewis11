@@ -1,8 +1,8 @@
 ## Introduction 
 
-- 🏗️ I am currently working on a discord bot (Python) and Mods for video games(C#).
+- 🏗️ I am currently working on going through data structures in Go and creating unit tests.
 - 🤠 Programming Languages: Python, C++, SQL, Javascript
-- 📋 Currently Learning: Rust, R, GraphQL
+- 📋 Currently Learning: Go, R, GraphQL
 - 🔧 Frameworks: Node, React
 - 🔨 Tools: Git, Jira, Bash, Docker, Cypress Testing
 - 📡 Interested in Cyber Security, Defense, and Space Systems
