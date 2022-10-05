@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Introduction <br>- 🏗️ I am currently working on going through data structures in Go and creating unit tests.<br>- 🤠 Programming Languages: Python, C++, SQL, Javascript<br>- 📋 Currently Learning: Go, R, GraphQL<br>- 🔧 Frameworks: Node, React<br>- 🔨 Tools: Git, Jira, Bash, Docker, Cypress Testing<br>- 📡 Interested in Cyber Security, Defense, and Space Systems<br>- 🧑‍🎓 California State University - Fullerton: B.S. in Computer Science 2023<br>- ✅ Looking for an internship in DevOps, SRE, and/or Software Development.<br><br><br>
+ <br>- 🏗️ I am currently working on going through data structures in Go and creating unit tests.<br>- 🤠 Programming Languages: Python, C++, SQL, Javascript<br>- 📋 Currently Learning: Go, R, GraphQL<br>- 🔧 Frameworks: Node, React<br>- 🔨 Tools: Git, Jira, Bash, Docker, Cypress Testing<br>- 📡 Interested in Cyber Security, Defense, and Space Systems<br>- 🧑‍🎓 California State University - Fullerton: B.S. in Computer Science 2023<br>- ✅ Looking for an internship in DevOps, SRE, and/or Software Development.<br><br><br>
 ## Fun Facts:<br>- 🌏 I'm billingual - fluent in English :us: and Chinese - Mandarin and Hokkien :taiwan:<br>- 🏞️ Fun Fact: I love travelling outdoors and camping.
 
 
