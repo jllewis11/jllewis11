@@ -3,7 +3,7 @@
 <br>- 🤠 Programming Languages: Python, C++, SQL, Javascript
 <br>- 📋 Currently Learning: Go, R, GraphQL<br>- 🔧 Frameworks: Node, React
 <br>- 🔨 Tools: Git, Jira, Bash, Docker, Cypress Testing, Jest
-<br>- 📡 Interested in Cyber Security, Defense, and Space Systems
+<br>- 📡 Interested in Emerging Technologies, Defense, and Space Systems
 <br>- 🧑‍🎓 California State University - Fullerton: B.S. in Computer Science 2023
 <br>- ✅ Looking for an internship in DevOps, SRE, and/or Software Development.<br><br><br>
 ## Fun Facts:
