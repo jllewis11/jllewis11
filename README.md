@@ -4,7 +4,7 @@
 <br>- 📋 Currently Learning: Go, R, GraphQL<br>- 🔧 Frameworks: Node, React
 <br>- 🔨 Tools: Git, Jira, Bash, Docker, Cypress Testing, Jest
 <br>- 📡 Interested in Emerging Technologies, Defense, and Space Systems
-<br>- 🧑‍🎓 California State University - Fullerton: B.S. in Computer Science 2023
+<br>- 🧑‍🎓 San Jose State University: M.S. in Computer Science 2024
 <br>- ✅ Looking for an internship in DevOps, SRE, and/or Software Development.<br><br><br>
 ## Fun Facts:
 <br>- 🌏 I'm billingual - fluent in English :us: and Chinese - Mandarin and Hokkien :taiwan:<br>- 🏞️ Fun Fact: I love travelling outdoors and camping.
