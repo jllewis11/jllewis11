@@ -1,10 +1,9 @@
 # 💫 About Me:
-<br>- 🏗️ I am currently working on going through data structures in Go and creating unit tests.
+<br>- 🏗️ I am currently working on going through a testing library called testpilot.
 <br>- 🤠 Programming Languages: Python, C++, SQL, Javascript
 <br>- 📋 Currently Learning: Go, R, GraphQL<br>- 🔧 Frameworks: Node, React
 <br>- 🔨 Tools: Git, Jira, Bash, Docker, Cypress Testing, Jest
-<br>- 📡 Interested in Emerging Technologies, Defense, and Space Systems
-<br>- 🧑‍🎓 San Jose State University: M.S. in Computer Science 2024
+<br>- 🧑‍🎓 San Jose State University: M.S. in Computer Science 2025
 <br>- ✅ Looking for an internship in DevOps, SRE, and/or Software Development.<br><br><br>
 ## Fun Facts:
 <br>- 🌏 I'm billingual - fluent in English :us: and Chinese - Mandarin and Hokkien :taiwan:<br>- 🏞️ Fun Fact: I love travelling outdoors and camping.
