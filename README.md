@@ -1,12 +1,12 @@
 # 💫 About Me:
-<br>- 🏗️ I am currently working on going through a testing library called testpilot.
-<br>- 🤠 Programming Languages: Python, C++, SQL, Javascript
-<br>- 📋 Currently Learning: Go, R, GraphQL<br>- 🔧 Frameworks: Node, React
+<br>- 🏗️ I am currently working on a project called WeCracked.com
+<br>- 🤠 Programming Languages: Python, Typescript, and SQL
+<br>- 📋 Currently Learning: Nextjs <br>- 🔧 Frameworks: Node, React
 <br>- 🔨 Tools: Git, Jira, Bash, Docker, Cypress Testing, Jest
 <br>- 🧑‍🎓 San Jose State University: M.S. in Computer Science 2025
 <br>- ✅ Looking for an internship in DevOps, SRE, and/or Software Development.<br><br><br>
 ## Fun Facts:
-<br>- 🌏 I'm billingual - fluent in English :us: and Chinese - Mandarin and Hokkien :taiwan:<br>- 🏞️ Fun Fact: I love travelling outdoors and camping.
+<br>- 🌏 I'm billingual - fluent in English :us: and Chinese - Mandarin - 🏞️ Fun Fact: I love travelling outdoors and camping.
 
 
 ## 🌐 Socials:
