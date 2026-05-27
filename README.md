@@ -1,2 +1,1 @@
-# 💫 About Me:
-<br>- 🏗️ twidlin' my thumbs and building codelingo
+🏗️ twidlin' my thumbs and building codelingo
